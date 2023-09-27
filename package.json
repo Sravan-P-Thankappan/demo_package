@@ -1,0 +1,22 @@
+{
+  "name": "flexm-test",
+  "version": "1.0.0",
+  "description": "a demo package for utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sravan-P-Thankappan/demo_package.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Sravan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sravan-P-Thankappan/demo_package/issues"
+  },
+  "homepage": "https://github.com/Sravan-P-Thankappan/demo_package#readme"
+}
